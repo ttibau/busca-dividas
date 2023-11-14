@@ -1,5 +1,5 @@
-import config from "@/config";
-import ButtonCheckout from "./ButtonCheckout";
+import config from '@/config';
+import ButtonCheckout from './ButtonCheckout';
 
 // <Pricing/> displays the pricing plans for your app
 // It's your Stripe config in config.js.stripe.plans[] that will be used to display the plans
@@ -10,13 +10,13 @@ const Pricing = () => {
     <section className="bg-base-200 overflow-hidden" id="pricing">
       <div className="py-24 px-8 max-w-5xl mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
-          <p className="font-medium text-primary mb-8">Pricing</p>
-          <h2 className="font-bold text-3xl lg:text-5xl tracking-tight">
-            Save hours of repetitive code and ship faster!
+          <p className="text-primary mb-5 text-2xl font-semibold">Pacotes</p>
+          <h2 className="font-semibold text-3xl lg:text-3xl tracking-tight">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </h2>
         </div>
 
-        <div className="relative flex justify-center flex-col lg:flex-row items-center lg:items-stretch gap-8">
+        <div className="relative flex justify-center flex-col lg:flex-row items-center lg:items-stretch gap-8 ">
           {config.stripe.plans.map((plan) => (
             <div key={plan.priceId} className="relative w-full max-w-lg">
               {plan.isFeatured && (
@@ -35,7 +35,7 @@ const Pricing = () => {
                 ></div>
               )}
 
-              <div className="relative flex flex-col h-full gap-5 lg:gap-8 z-10 bg-base-100 p-8 rounded-lg">
+              <div className="relative flex flex-col h-full gap-5 lg:gap-8 z-10 bg-base-100 p-8 rounded-lg lg:min-w-[320px]">
                 <div className="flex justify-between items-center gap-4">
                   <div>
                     <p className="text-lg lg:text-xl font-bold">{plan.name}</p>
@@ -52,18 +52,18 @@ const Pricing = () => {
                       <p className="relative">
                         <span className="absolute bg-base-content h-[1.5px] inset-x-0 top-[53%]"></span>
                         <span className="text-base-content/80">
-                          ${plan.priceAnchor}
+                          R${plan.priceAnchor}
                         </span>
                       </p>
                     </div>
                   )}
                   <p className={`text-5xl tracking-tight font-extrabold`}>
-                    ${plan.price}
+                    R${plan.price}
                   </p>
                   <div className="flex flex-col justify-end mb-[4px]">
-                    <p className="text-xs text-base-content/60 uppercase font-semibold">
+                    {/* <p className="text-xs text-base-content/60 uppercase font-semibold">
                       USD
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 {plan.features && (
@@ -91,9 +91,9 @@ const Pricing = () => {
                 <div className="space-y-2">
                   <ButtonCheckout priceId={plan.priceId} />
 
-                  <p className="flex items-center justify-center gap-2 text-sm text-center text-base-content/80 font-medium relative">
+                  {/* <p className="flex items-center justify-center gap-2 text-sm text-center text-base-content/80 font-medium relative">
                     Pay once. Access forever.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
