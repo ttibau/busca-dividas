@@ -10,8 +10,8 @@ const Pricing = () => {
     <section className="bg-base-200 overflow-hidden" id="pricing">
       <div className="py-24 px-8 max-w-5xl mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
-          <p className="text-primary mb-5 text-2xl font-semibold">Pacotes</p>
-          <h2 className="font-semibold text-3xl lg:text-3xl tracking-tight">
+          <p className="text-primary mb-2 text-2xl font-semibold">Pacotes</p>
+          <h2 className="font-bold text-3xl lg:text-3xl tracking-tight">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </h2>
         </div>

@@ -126,9 +126,12 @@ const Header = () => {
 
         {/* CTA on large screens */}
         <div className="hidden lg:flex lg:justify-end lg:flex-1">
-          <button className="btn btn-gradient animate-shimmer max-sm:w-28 max-sm:text-[0.5rem] w-[160px]">
+          <Link
+            href={'/#consult'}
+            className="btn btn-gradient animate-shimmer max-sm:w-28 max-sm:text-[0.5rem] w-[160px]"
+          >
             Consultar <span className="uppercase">cpf</span>
-          </button>
+          </Link>
         </div>
       </nav>
 

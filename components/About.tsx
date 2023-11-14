@@ -1,10 +1,14 @@
 import React from 'react';
 import AboutImage from '@/app/images/aboutUs.svg';
 import Image from 'next/image';
+import Link from 'next/link';
 
 function AboutComponent() {
   return (
-    <section className="mx-auto bg-white flex flex-col lg:flex-row items-center justify-center gap-16 lg:gap-20 px-8 py-8 lg:py-20">
+    <section
+      id="about"
+      className="mx-auto bg-white flex flex-col lg:flex-row items-center justify-center gap-16 lg:gap-20 px-8 py-8 lg:py-20"
+    >
       <Image
         src={AboutImage}
         alt="sobre"
@@ -85,9 +89,12 @@ function AboutComponent() {
             </div>
           </li>
         </ul>
-        <button className="btn btn-active btn-primary h-[54px] text-white text-sm md:text-base font-medium mt-12 w-full">
+        <Link
+          href={'/#consult'}
+          className="btn btn-active btn-primary h-[54px] text-white text-sm md:text-base font-medium mt-12 w-full"
+        >
           Clique para fazer uma consulta
-        </button>
+        </Link>
       </div>
     </section>
   );
