@@ -12,7 +12,7 @@ const ButtonCheckout = ({
 }: // mode = 'payment', estava quebrando a chamada do botão
 {
   priceId: string;
-  // mode: 'payment' | 'subscription'; estava quebrando a chamada do botão
+  mode: 'payment' | 'subscription'; 
 }) => {
   const [isLoading, setIsLoading] = useState<boolean>(false);
 
