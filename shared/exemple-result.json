@@ -413,9 +413,15 @@
       ]
     },
     "filhos": {
-      "qtd": 0,
+      "qtd": 1,
       "erro": 0,
-      "texto": "Nenhum dado encontrado"
+      "texto": "Nenhum dado encontrado",
+      "registro": [
+        {
+          "nome": "IVANILTON JOSE DE MOURA",
+          "nascimento": "1987-05-15"
+        }
+      ]
     }
   },
   "avisos": "",
