@@ -1,0 +1,426 @@
+{
+  "sintese": {
+    "qtd": 1,
+    "erro": 0,
+    "reg": {
+      "cpf": "68448210930",
+      "nome": "SIMONE DO ROCIO MORAIS SECKLER",
+      "primeiro_nome": "SIMONE",
+      "nome_meio": "DO ROCIO MORAIS",
+      "ultimo_nome": "SECKLER",
+      "sexo": "FEMININO",
+      "nascimento": "1969-12-11",
+      "mae": "MARIA B MORAIS",
+      "pai": null,
+      "estado_civil": "SOLTEIRO",
+      "rg": null,
+      "nacionalidade": null,
+      "codigo_cbo": "354125",
+      "data_obito": null,
+      "titulo_eleitor": null
+    }
+  },
+  "empresas": {
+    "qtd": 1,
+    "erro": 0,
+    "registro": [
+      {
+        "tipo_socio": "2",
+        "participacao": "100.00",
+        "dado": "23297862000123",
+        "razao": "SIMONE DO ROCIO MORAIS SECKLER 68448210930",
+        "fantasia": "AMBROSIA DUBINA"
+      }
+    ]
+  },
+  "representanteLegal": {
+    "qtd": 0,
+    "erro": 0,
+    "texto": "Nenhum dado encontrado"
+  },
+  "telefones": {
+    "qtd": 9,
+    "erro": 0,
+    "registro": [
+      {
+        "ddd": "51",
+        "telefone": "984795341",
+        "tp_telefone": "TELEFONE M\u00d3VEL",
+        "nota": "10",
+        "prioridade": "1",
+        "classificacao": "A"
+      },
+      {
+        "ddd": "51",
+        "telefone": "994469374",
+        "tp_telefone": "TELEFONE M\u00d3VEL",
+        "nota": "10",
+        "prioridade": "1",
+        "classificacao": "A"
+      },
+      {
+        "ddd": "51",
+        "telefone": "993950967",
+        "tp_telefone": "TELEFONE M\u00d3VEL",
+        "nota": "10",
+        "prioridade": "1",
+        "classificacao": "A"
+      },
+      {
+        "ddd": "51",
+        "telefone": "993765808",
+        "tp_telefone": "TELEFONE M\u00d3VEL",
+        "nota": "10",
+        "prioridade": "1",
+        "classificacao": "A"
+      },
+      {
+        "ddd": "41",
+        "telefone": "997957143",
+        "tp_telefone": "TELEFONE M\u00d3VEL",
+        "nota": "10",
+        "prioridade": "1",
+        "classificacao": "A2"
+      },
+      {
+        "ddd": "41",
+        "telefone": "32051167",
+        "tp_telefone": "TELEFONE RESIDENCIAL",
+        "nota": "10",
+        "prioridade": "2",
+        "classificacao": "A2"
+      },
+      {
+        "ddd": "51",
+        "telefone": "31787475",
+        "tp_telefone": "TELEFONE RESIDENCIAL",
+        "nota": "10",
+        "prioridade": "3",
+        "classificacao": "B"
+      },
+      {
+        "ddd": "51",
+        "telefone": "36326878",
+        "tp_telefone": "TELEFONE RESIDENCIAL",
+        "nota": "10",
+        "prioridade": "4",
+        "classificacao": "B"
+      },
+      {
+        "ddd": "51",
+        "telefone": "982221218",
+        "tp_telefone": "TELEFONE M\u00d3VEL",
+        "nota": "10",
+        "prioridade": "5",
+        "classificacao": "D"
+      }
+    ]
+  },
+  "emails": {
+    "qtd": 5,
+    "erro": 0,
+    "registro": [
+      {
+        "email": "monimorais.seckler@hotmail.com",
+        "tipo": "PUBLICO"
+      },
+      {
+        "email": "moniseckler@hotmail.com",
+        "tipo": "PUBLICO"
+      },
+      {
+        "email": "moniseckler@mail.com",
+        "tipo": "DESCONHECIDO"
+      },
+      {
+        "email": "simonedorociomorais@gmail.com",
+        "tipo": "PUBLICO"
+      },
+      {
+        "email": "simonemorais44@live.com",
+        "tipo": "PUBLICO"
+      }
+    ]
+  },
+  "enderecos": {
+    "qtd": 2,
+    "erro": 0,
+    "registro": [
+      {
+        "tipo": "RUA",
+        "titulo": "",
+        "endereco": "CASCAVEL ",
+        "numero": "320",
+        "compl": "CS 5",
+        "bairro": "BOQUEIRAO",
+        "cidade": "CURITIBA",
+        "uf": "PR",
+        "cep": "81670180",
+        "endCompleto": "RUA CASCAVEL 320 CS 5",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "tipo": "",
+        "titulo": "",
+        "endereco": "",
+        "numero": "0",
+        "compl": "CASA",
+        "bairro": "CECILIA",
+        "cidade": "VIAMAO",
+        "uf": "RS",
+        "cep": "94475750",
+        "endCompleto": "AVENIDA PREFEITO BARRETO VIANA",
+        "latitude": null,
+        "longitude": null
+      }
+    ]
+  },
+  "perfil_social": {
+    "classe_social": {
+      "qtd": 1,
+      "erro": 0,
+      "registro": [
+        {
+          "classe_social": null
+        }
+      ]
+    },
+    "credito_msg": {
+      "qtd": 1,
+      "erro": 0,
+      "registro": [
+        {
+          "comportamento": "I1"
+        }
+      ]
+    },
+    "escolaridade": {
+      "qtd": 1,
+      "erro": 0,
+      "registro": [
+        {
+          "grauInstrucao": "MEDIO COMPLETO"
+        }
+      ]
+    },
+    "perfil": {
+      "qtd": null,
+      "erro": null,
+      "texto": "Nenhum dado encontrado"
+    }
+  },
+  "parentes": {
+    "mae": {
+      "qtd": 0,
+      "erro": 0,
+      "texto": "Nenhum dado encontrado"
+    },
+    "irmaos": {
+      "qtd": 6,
+      "erro": 0,
+      "registro": [
+        {
+          "nome": "IVANILTON JOSE DE MOURA",
+          "nascimento": "1987-05-15",
+          "nome_mae": "MARIA B MORAIS",
+          "nome_pai": null,
+          "telefones": {
+            "qtd": 3,
+            "erro": 0,
+            "registro": [
+              {
+                "ddd": "81",
+                "telefone": "991950724",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A"
+              },
+              {
+                "ddd": "81",
+                "telefone": "971054733",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "D"
+              },
+              {
+                "ddd": "81",
+                "telefone": "981019047",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "2",
+                "classificacao": "D"
+              }
+            ]
+          }
+        },
+        {
+          "nome": "ALCIDES BRAGA DE MORAIS",
+          "nascimento": "1959-05-01",
+          "nome_mae": "MARIA B MORAIS",
+          "nome_pai": null,
+          "telefones": {
+            "qtd": 0,
+            "erro": 0,
+            "texto": "Nenhum dado encontrado"
+          }
+        },
+        {
+          "nome": "JOAO ROBERTO MORAIS",
+          "nascimento": "1963-07-12",
+          "nome_mae": "MARIA B MORAIS",
+          "nome_pai": null,
+          "telefones": {
+            "qtd": 3,
+            "erro": 0,
+            "registro": [
+              {
+                "ddd": "35",
+                "telefone": "988193483",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A"
+              },
+              {
+                "ddd": "35",
+                "telefone": "32210400",
+                "tp_telefone": "TELEFONE RESIDENCIAL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A0"
+              },
+              {
+                "ddd": "35",
+                "telefone": "32238301",
+                "tp_telefone": "TELEFONE RESIDENCIAL",
+                "nota": "10",
+                "prioridade": "3",
+                "classificacao": "D2"
+              }
+            ]
+          }
+        },
+        {
+          "nome": "MARIA SALETE BERNARDO DE MORAIS",
+          "nascimento": "1952-07-03",
+          "nome_mae": "MARIA B MORAIS",
+          "nome_pai": null,
+          "telefones": {
+            "qtd": 5,
+            "erro": 0,
+            "registro": [
+              {
+                "ddd": "84",
+                "telefone": "987425020",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A"
+              },
+              {
+                "ddd": "84",
+                "telefone": "987178309",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "2",
+                "classificacao": "D"
+              },
+              {
+                "ddd": "84",
+                "telefone": "32402183",
+                "tp_telefone": "TELEFONE RESIDENCIAL",
+                "nota": "10",
+                "prioridade": "3",
+                "classificacao": "D2"
+              },
+              {
+                "ddd": "84",
+                "telefone": "34732203",
+                "tp_telefone": "TELEFONE RESIDENCIAL",
+                "nota": "10",
+                "prioridade": "4",
+                "classificacao": "D2"
+              },
+              {
+                "ddd": "84",
+                "telefone": "88678052",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A"
+              }
+            ]
+          }
+        },
+        {
+          "nome": "GETULIO TEIXEIRA",
+          "nascimento": "1951-04-19",
+          "nome_mae": "MARIA B MORAIS",
+          "nome_pai": "SATURNINO TEIXEIRA",
+          "telefones": {
+            "qtd": 0,
+            "erro": 0,
+            "texto": "Nenhum dado encontrado"
+          }
+        },
+        {
+          "nome": "RONALDO ALEXANDRE SANTOS",
+          "nascimento": "1967-09-05",
+          "nome_mae": "MARIA B MORAIS",
+          "nome_pai": null,
+          "telefones": {
+            "qtd": 4,
+            "erro": 0,
+            "registro": [
+              {
+                "ddd": "19",
+                "telefone": "994215506",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A"
+              },
+              {
+                "ddd": "19",
+                "telefone": "991324186",
+                "tp_telefone": "TELEFONE M\u00d3VEL",
+                "nota": "10",
+                "prioridade": "1",
+                "classificacao": "A"
+              },
+              {
+                "ddd": "19",
+                "telefone": "38698923",
+                "tp_telefone": "TELEFONE RESIDENCIAL",
+                "nota": "10",
+                "prioridade": "2",
+                "classificacao": "A0"
+              },
+              {
+                "ddd": "19",
+                "telefone": "32446654",
+                "tp_telefone": "TELEFONE RESIDENCIAL",
+                "nota": "10",
+                "prioridade": "4",
+                "classificacao": "D"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "filhos": {
+      "qtd": 0,
+      "erro": 0,
+      "texto": "Nenhum dado encontrado"
+    }
+  },
+  "avisos": "",
+  "sobre": {
+    "versao": "1.0",
+    "versaoData": "201906"
+  }
+}
