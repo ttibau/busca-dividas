@@ -57,8 +57,8 @@ const Hero = () => {
       document.getElementById('my_modal_3').showModal();
 
       setTimeout(() => {
-        router.push('/result');
-      }, 3000);
+        router.push('/free-result');
+      }, 1000);
     } else {
       setRequiredValue(true);
     }
